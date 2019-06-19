@@ -1,0 +1,13 @@
+/.project
+/.pydevproject
+/.settings/
+__pycache__
+/bin/
+/build/
+/dist/
+/include/
+/lib/
+/lib64
+/pip-selfcheck.json
+/scrapy_socks_downloader.egg-info/
+
