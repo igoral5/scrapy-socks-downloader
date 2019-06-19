@@ -1,6 +1,7 @@
 # Downloader for scrapy over socks proxy  
 
 Install:    
+pip install git+https://github.com/igoral5/txsocksx.git  
 pip install git+https://github.com/igoral5/scrapy-socks-downloader.git  
 
 Usage:  
